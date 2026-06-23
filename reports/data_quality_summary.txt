@@ -1,0 +1,8 @@
+DATA QUALITY SUMMARY
+
+Total CSV Files: 10
+Non-Empty Files: 1
+Empty Files: 9
+
+Observation:
+Some datasets are empty and require actual data.
