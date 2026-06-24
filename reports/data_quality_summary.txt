@@ -1,8 +1,7 @@
 DATA QUALITY SUMMARY
+Total scheme codes in fund_master: 0
+Total scheme codes in nav_history: 0
+Missing scheme codes: 0
 
-Total CSV Files: 10
-Non-Empty Files: 1
-Empty Files: 9
-
-Observation:
-Some datasets are empty and require actual data.
+Conclusion:
+Dataset loaded successfully. Review missing values and duplicates for detailed quality assessment.
