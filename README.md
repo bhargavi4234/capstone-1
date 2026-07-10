@@ -223,7 +223,6 @@ dashboard/Dashboard.pdf
 
 ### B1 – Home Screen
 
-
 ### B2 – Recommendation Screen
 
 
